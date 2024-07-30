@@ -5,3 +5,4 @@ The Breast Cancer Diagnosis app is a machine learning-powered tool designed to a
 ![Screenshot 2024-07-30 005426](https://github.com/user-attachments/assets/16995969-55c9-4205-a960-49f27b5c5798)
 ![Screenshot 2024-07-30 233702](https://github.com/user-attachments/assets/1402cce0-70a4-40a2-9195-54e766baf118)
 
+ 
